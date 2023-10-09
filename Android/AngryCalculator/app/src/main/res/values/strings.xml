@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="LogoName">Mega Calculator</string>>
+    <string name="hint_1">Введите первое число!</string>
+    <string name="hint_2">Введите второе число!</string>
+    <string name="Mode">Hard mod</string>
+</resources>
